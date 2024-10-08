@@ -3,17 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Rwebpic.jpg
 ---
 
 :::{#me}
 
-## Goals
+## Career Goals
+
+I would love to work with bacteria, molds, and yeasts in research, or by testing samples for a hospital or company. At some point I would like to get a master's degree, but am not sure if I want to get a job first. 
 
 ## Education
 
-## Experience
+I am from Milford, New Hampshire and graduated from Milford High School in 2021. I am currently a senior Biomedical Sciences: Medical Microbiology Major at the University of New Hampshire. My favorite class so far has been Pathogenic Microbiology, but I also really enjoyed Mycology, Parasitology & Virology. 
+
+## Senior Thesis
+
+I am working on my senior thesis in Dr. Dao's lab at UNH. My project focuses on the efficacy of FTA cards and bulk stool sample collection, in terms of bacterial diversity and abundance. I am focusing on human gut bacteria that produce short-chain fatty acids, and those that are pro-inflammatory. I am working on a literature search for bacteria in these groups, and have applied for the Undergraduate Research Award for the spring semester. 
 
 :::
 
-Thanks for checking out my web site!
+Thanks for reading! 

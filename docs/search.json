@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "In my spare time, I love to crochet, play video games, and watch thrillers/horror movies.\nI am currently working on crocheting a beta fish. I am using color-changing yarn, that goes from red to white to blue.\nI am really into Stardew Valley right now! It is a really cute farming game, that also includes combat and quests.\nI finally watched “American Psycho” for the first time! It was good, but not as good as “The Ring” (my all-time favorite creepy movie)."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "projects.html#my-hobbies",
+    "href": "projects.html#my-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "In my spare time, I love to crochet, play video games, and watch thrillers/horror movies.\nI am currently working on crocheting a beta fish. I am using color-changing yarn, that goes from red to white to blue.\nI am really into Stardew Valley right now! It is a really cute farming game, that also includes combat and quests.\nI finally watched “American Psycho” for the first time! It was good, but not as good as “The Ring” (my all-time favorite creepy movie)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I would love to work with bacteria, molds, and yeasts in research, or by testing samples for a hospital or company. At some point I would like to get a master’s degree, but am not sure if I want to get a job first.\n\n\n\nI am from Milford, New Hampshire and graduated from Milford High School in 2021. I am currently a senior Biomedical Sciences: Medical Microbiology Major at the University of New Hampshire. My favorite class so far has been Pathogenic Microbiology, but I also really enjoyed Mycology, Parasitology & Virology.\n\n\n\nI am working on my senior thesis in Dr. Dao’s lab at UNH. My project focuses on the efficacy of FTA cards and bulk stool sample collection, in terms of bacterial diversity and abundance. I am focusing on human gut bacteria that produce short-chain fatty acids, and those that are pro-inflammatory. I am working on a literature search for bacteria in these groups, and have applied for the Undergraduate Research Award for the spring semester.\nThanks for reading!"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I would love to work with bacteria, molds, and yeasts in research, or by testing samples for a hospital or company. At some point I would like to get a master’s degree, but am not sure if I want to get a job first."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I am from Milford, New Hampshire and graduated from Milford High School in 2021. I am currently a senior Biomedical Sciences: Medical Microbiology Major at the University of New Hampshire. My favorite class so far has been Pathogenic Microbiology, but I also really enjoyed Mycology, Parasitology & Virology."
+  },
+  {
+    "objectID": "index.html#senior-thesis",
+    "href": "index.html#senior-thesis",
+    "title": "About Me",
+    "section": "",
+    "text": "I am working on my senior thesis in Dr. Dao’s lab at UNH. My project focuses on the efficacy of FTA cards and bulk stool sample collection, in terms of bacterial diversity and abundance. I am focusing on human gut bacteria that produce short-chain fatty acids, and those that are pro-inflammatory. I am working on a literature search for bacteria in these groups, and have applied for the Undergraduate Research Award for the spring semester."
   }
 ]

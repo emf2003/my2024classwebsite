@@ -3,24 +3,24 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "My 2024 Class Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/erica-faucher-142a5a266/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/emf2003/my2024classwebsite
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, ERICA FAUCHER"
 
 format:
   html:
-    theme: cerulean
+    theme: quartz
     toc: true
 
 editor: source
